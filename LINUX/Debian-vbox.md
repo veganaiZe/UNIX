@@ -203,6 +203,7 @@ sudo apt-get clean
     - `Check`: Enable 3D Acceleration
 * VirtualBox Manager -> double-click `Debian 11`
 ```bash
+sudo apt-get install mesa-utils
 glxinfo | grep OpenGL
 glxgears
 ```
