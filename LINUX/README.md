@@ -13,3 +13,4 @@
 ---
 
 * [The Linux Documentation Project (TDLP)](https://tldp.org/)
+* [The Linux Programming Interface](https://www.man7.org/tlpi/index.html)
